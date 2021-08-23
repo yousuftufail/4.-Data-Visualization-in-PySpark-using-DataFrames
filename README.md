@@ -1,6 +1,6 @@
 # Data-Visualization-in-PySpark-using-DataFrames
 
-Two examples of dataframe (constructed through spark) plotting are presented. These examples are taken from DataCamp.
+Two examples of dataframes, constructed through spark, plotting  are presented. These examples are taken from DataCamp.
 
 # important libraries
 
