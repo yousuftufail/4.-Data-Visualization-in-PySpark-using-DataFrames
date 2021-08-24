@@ -7,10 +7,12 @@ Two examples of dataframes, constructed through spark, plotting  are presented. 
 import findspark
 findspark.init("path_to_hadoop 3.2")
 
-from pyspark import SparkConf
+pyspark.SparkConf
 
-from pyspark.context import SparkContext
+pyspark.context.SparkContext
 
-from pyspark.sql import SparkSession
+pyspark.sql.SparkSession
 
 spark=SparkSession.builder.getOrCreate()
+
+matplotlib.pyplot.plt
